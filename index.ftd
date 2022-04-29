@@ -29,8 +29,8 @@ light: #919192
 dark: #919192
 
 -- ftd.color text-:
-light: #a8a29e
-dark: #a8a29e
+light: #9ea89e
+dark: #9ea89e
 
 -- ftd.color text-strong-:
 light: #ffffff
@@ -46,8 +46,8 @@ dark: #007f9b
 
 
 -- ftd.color cta-primary-base-:
-light: #2dd4bf
-dark: #2dd4bf
+light: #0d712c
+dark: #0d712c
 
 -- ftd.color cta-primary-hover-:
 light: #2c9f90
@@ -194,8 +194,8 @@ border: $cta-danger-border-
 text: $cta-danger-text-
 
 -- ftd.color accent-primary-:
-light: #2dd4bf
-dark: #2dd4bf
+light: #4ed42d
+dark: #4ed42d
 
 -- ftd.color accent-secondary-:
 light: #4fb2df
