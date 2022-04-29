@@ -1,7 +1,6 @@
 -- import: fpm
 
 
-
 -- ftd.color base-:
 light: #131a13
 dark: #131a13
@@ -379,6 +378,18 @@ surface: $main
 surface-alt: $main
 glass: $main
 
+
+
+-- ftd.column:
+width: fill
+padding-left: 50
+padding-top: 50
+background-color: $fpm.color.main.background.base 
+
+-- ftd.text: Forest Theme
+role: $fpm.type.heading-large
+color: $fpm.color.main.text-strong
+margin-bottom: 20
 
 -- cd.color-display:
 color: $fpm.color
